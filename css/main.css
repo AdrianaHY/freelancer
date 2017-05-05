@@ -166,3 +166,74 @@ form{
   padding-top: 5%;
   padding-bottom: 15%;
 }
+#footer-uno{
+  background-color: #2C3E50;
+  text-align: center;
+}
+.titulos-footer{
+  font-family: 'Montserrat', sans-serif;
+  color:#fff;
+  font-size: 24px;
+  padding-top: 13%;
+  padding-bottom: 7;
+}
+.parrafos-footer{
+  font-family: 'Lato', sans-serif;
+  color:#fff;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 7%;
+  padding-bottom: 15%;
+
+}
+.pFooterUno{
+  float: right;
+  width:50%;
+}
+
+.pFooterDos{
+  float: left;
+  width: 80%;
+}
+.redSocial{
+  background: transparent;
+  color: white;
+  border: 2px solid #fff;;
+  border-radius: 100px;
+  padding: 2% 3% 2% 3%;
+  margin: 20px 5px;
+  font-size: 17px;
+}
+
+.redSocial:hover{
+  background-color: white;
+  color: #18BC9C;
+}
+.location{
+ padding-left: 50%;
+}
+.aboutFreelancer{
+  padding-right: 20%;
+}
+.linkFooter{
+  color: #18BC9C;
+  text-decoration: none;
+}
+
+.linkFooter:hover{
+  text-decoration: underline;
+}
+.contenedor-iconos{
+  padding-top: 10%;
+}
+
+.footer-dos{
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+  color:#fff;
+}
+#cont-footerDos{
+  background-color: #233140;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
